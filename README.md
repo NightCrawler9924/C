@@ -1,6 +1,6 @@
 🚀 C Programming Repository – Notes + Projects + Final App
 
-Welcome to my complete C programming journey! This repository contains everything I created and learned while mastering the **C language** — including my custom **notes**, **core concept examples**, **mini projects**, and one **final project** demonstrating applied skills.
+Welcome to my complete C programming journey! This repository contains everything I created and learned while mastering the **C language**, including my custom **notes**, **core concept examples**, **mini projects**, and one **final project** demonstrating applied skills.
 
 ---
 
