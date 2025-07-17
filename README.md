@@ -46,7 +46,7 @@ These programs are self-contained and designed to demonstrate the **building blo
 
 ## 🌟 Final Project: Fleeca Bank Manager
 
-[Fleeca Bank GitHub Repo](<paste_link_here>)
+[Fleeca Bank GitHub Repo]((https://github.com/NightCrawler9924/Bank-Manager-C-))
 
 The **Fleeca Bank Manager** is a terminal-based banking system that simulates core banking operations with a user-friendly CLI. It was built as the capstone project of my C programming journey.
 
