@@ -11,22 +11,24 @@ Welcome to my complete C programming journey! This repository contains everythin
     ├── Mini Projects/ # Small applications built to sharpen logic
     ├── Reference Books/ # Key learning resources (PDFs)
     ├── C.docx # My personal notes in document format
+    ├── Notes # Divided into 5 sections and easily accessible in markdown files
     ├── .gitignore
     └── LICENSE
 
 
 ---
 
-## 🧠 Core Concepts Covered (`Codes/`)
+## 🧠 Core Concepts Covered (Codes/)
 
-    - ✅ Variables, Datatypes, Operators
-    - ✅ Pointers and Arrays
-    - ✅ Strings & String Functions
-    - ✅ Loops and Conditionals
-    - ✅ Functions and Scope
-    - ✅ File I/O Basics
-    - ✅ Modular Programming
-    - ✅ Command-line Compilation
+    ✅ Directives, Variables, and Data Types
+    
+    ✅ Input, Output, and Expressions
+    
+    ✅ Selection Statements, Loops, and Functions
+    
+    ✅ Scope and Pointers
+    
+    ✅ Strings and Standard Libraries
 
 These programs are self-contained and designed to demonstrate the **building blocks of C**. Each file focuses on a single concept or pattern.
 
